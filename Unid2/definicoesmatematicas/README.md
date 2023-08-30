@@ -14,7 +14,7 @@ R: Números Primos ≝ 2, 3, 5, 7, 11, ...
 R:
 <p> Bianca Lucas da Silva Caçula ≝ <img src="./img/MicrosoftTeams-image (1).png" /></p>
 
-<p> Luis Eduardo da Silva Moraes ≝ <img src="./img/MicrosoftTeams-image.png.png" /></p>
+<p> Luis Eduardo da Silva Moraes ≝ <img src="./img/MicrosoftTeams-image.png" /></p>
 
 2.5. Efetue uma definição recursiva de uma sequência numérica cujos elementos são obtidos multiplicando-se, a partir do segundo elemento, o elemento anterior por 3. Considere que o primeiro elemento vale 2.
 R: Sequência Exponencial de Multiplicação por 3 com base 2 ≝ 2, 6, 18, 54, 162, ...
