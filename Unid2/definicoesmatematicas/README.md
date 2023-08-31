@@ -11,6 +11,7 @@ R: Cursos Fatec Jacareí ≝ Meio Ambiente e Recursos Hídricos, Geoprocessament
 <br> <br>
 2.3. Efetue uma definição, através de enumeração, de números primos. Um número é dito primo se só possui como divisor ele mesmo e o número um.
 R: Números Primos ≝ 2, 3, 5, 7, 11, ... 
+<br> <br>
 2.4. Efetue uma definição ostensiva, de um colega de classe.
 
 R:
