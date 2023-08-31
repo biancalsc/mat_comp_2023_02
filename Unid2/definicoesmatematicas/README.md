@@ -21,7 +21,9 @@ R:
 
 2.5. Efetue uma definição recursiva de uma sequência numérica cujos elementos são obtidos multiplicando-se, a partir do segundo elemento, o elemento anterior por 3. Considere que o primeiro elemento vale 2.
 R: Sequência Exponencial de Multiplicação por 3 com base 2 ≝ 2, 6, 18, 54, 162, ...
+<br> <br>
 2.6. Utilizando linguagem de programação defina:
+<br> <br>
 a) Uma enumeração para os meses do ano.
 R: Disponível em:
 ./definicoesmatematicas/src/exercicio2_6/exercicio2_6_a.ts
