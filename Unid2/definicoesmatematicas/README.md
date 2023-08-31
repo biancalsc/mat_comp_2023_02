@@ -8,6 +8,7 @@ Família Silva ≝ Claudiney Aparecido da Silva Caçula, Edávila Lucas da Silva
 
 2.2. Efetue uma definição, através de enumeração, de cursos existentes na instituição de ensino em que você está estudando.
 R: Cursos Fatec Jacareí ≝ Meio Ambiente e Recursos Hídricos, Geoprocessamento, Desenvolvimento de Software Multiplataforma
+<br>
 2.3. Efetue uma definição, através de enumeração, de números primos. Um número é dito primo se só possui como divisor ele mesmo e o número um.
 R: Números Primos ≝ 2, 3, 5, 7, 11, ... 
 2.4. Efetue uma definição ostensiva, de um colega de classe.
