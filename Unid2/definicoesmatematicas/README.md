@@ -54,3 +54,32 @@ R: Disponível em:
 <p><img src="./img/MicrosoftTeams-image (10).png" /></p>
 <p><img src="./img/MicrosoftTeams-image (11).png" /></p>
 
+Disponível em:
+./definicoesmatematicas/src/exercicio2_7/exercicio2_7.ts
+
+<p><img src="./img/MicrosoftTeams-image (12).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (13).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (14).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (15).png" /></p>
+
+2.8. O que acontece ao se executar uma chamada a uma função recursiva que chama a si mesma um elevado número de vezes? Dê um exemplo utilizando o código-fonte da progressão aritmética fornecido pelo professor. Faça um comparativo escrevendo um algoritmo e código que sejam equivalentes ao recursivo em termos de entradas e saídas, mas que utilizem iteração ao invés de recursão. Qual sua conclusão?
+R: Ela acabando não sendo executada até o final e exibe a mensagem “infinity”.
+Disponível em:
+./definicoesmatematicas/src/exercicio2_8.ts
+
+<p><img src="./img/MicrosoftTeams-image (16).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (17).png" /></p>
+
+A conclusão que se chega ao realizar códigos equivalentes iterativo e recursivo é que ambos os casos o código não é executado até o final por existir muitos caracteres para serem executados.
+
+2.9. Uma progressão geométrica é uma sequência numérica onde cada elemento, a partir do segundo, é obtido multiplicando-se o anterior por uma constante. Utilizando uma linguagem de programação que dê suporte a orientação a objetos, defina uma progressão geométrica e dê exemplo de geração de seus primeiros 50 termos.
+R:
+
+<p><img src="./img/MicrosoftTeams-image (18).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (19).png" /></p>
+
+2.10. A sequência de Fibonacci é definida da seguinte forma: {1, 1, 2, 3, 5, 8, 13, ...}, ou seja, para k>2, xk = xk-1 + xk-2. Utilizando uma linguagem de programação com suporte a orientação a objetos, defina uma classe que modele a sequência de Fibonacci e exemplifique o cálculo de alguns de seus termos. Ilustre a chamada recursiva e identifique chamadas repetidas a um mesmo valor.
+R:
+
+<p><img src="./img/MicrosoftTeams-image (20).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (21).png" /></p>
