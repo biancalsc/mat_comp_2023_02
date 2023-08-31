@@ -25,3 +25,32 @@ R: Disponível em:
 
 <p><img src="./img/MicrosoftTeams-image (2).png" /></p>
 <p><img src="./img/MicrosoftTeams-image (3).png" /></p>
+
+b) Uma enumeração para os dias da semana.
+R: Disponível em:
+./definicoesmatematicas/src/exercicio2_6/exercicio2_6_b.ts
+
+<p><img src="./img/MicrosoftTeams-image (4).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (5).png" /></p>
+
+c) Uma função recursiva para o cálculo do fatorial de um número.
+R: Disponível em:
+./definicoesmatematicas/src/exercicio2_6/exercicio2_6_c.ts
+
+<p><img src="./img/MicrosoftTeams-image (6).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (7).png" /></p>
+
+d) Uma definição que corresponda a definição do tipo gênero-diferença para um uma pessoa que estude em uma faculdade. Utilize uma linguagem que dê suporte a herança.
+R: Disponível em:
+./definicoesmatematicas/src/exercicio2_6/exercicio2_6_d.ts
+
+<p><img src="./img/MicrosoftTeams-image (8).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (9).png" /></p>
+
+2.7. Um veículo possui a capacidade de se mover, expressa pela alteração na sua coordenada de longitude e latitude. Um veículo elétrico é um veículo que possui como fonte de energia primária a eletricidade (armazenada em uma bateria). Um veículo elétrico e voador é um veículo que também possui a capacidade de se mover na vertical, expressa pela alteração de sua altitude em relação ao solo. Represente um veículo elétrico e voador utilizando uma cadeia de herança. Defina o código-fonte representativo do modelo em um arquivo separado daquele que faz uso desse e, adicionalmente exemplifique o acesso e a modificação desses atributos através de chamada de suas operações.
+R: Disponível em:
+./definicoesmatematicas/src/exercicio2_6/exercicio2_7_model.ts
+
+<p><img src="./img/MicrosoftTeams-image (10).png" /></p>
+<p><img src="./img/MicrosoftTeams-image (11).png" /></p>
+
