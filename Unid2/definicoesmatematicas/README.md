@@ -81,12 +81,14 @@ Disponível em:
 A conclusão que se chega ao realizar códigos equivalentes iterativo e recursivo é que ambos os casos o código não é executado até o final por existir muitos caracteres para serem executados.
 
 2.9. Uma progressão geométrica é uma sequência numérica onde cada elemento, a partir do segundo, é obtido multiplicando-se o anterior por uma constante. Utilizando uma linguagem de programação que dê suporte a orientação a objetos, defina uma progressão geométrica e dê exemplo de geração de seus primeiros 50 termos.
+<br>
 R:
 
 <p><img src="./img/MicrosoftTeams-image (18).png" /></p>
 <p><img src="./img/MicrosoftTeams-image (19).png" /></p>
 
 2.10. A sequência de Fibonacci é definida da seguinte forma: {1, 1, 2, 3, 5, 8, 13, ...}, ou seja, para k>2, xk = xk-1 + xk-2. Utilizando uma linguagem de programação com suporte a orientação a objetos, defina uma classe que modele a sequência de Fibonacci e exemplifique o cálculo de alguns de seus termos. Ilustre a chamada recursiva e identifique chamadas repetidas a um mesmo valor.
+<br>
 R:
 
 <p><img src="./img/MicrosoftTeams-image (20).png" /></p>
