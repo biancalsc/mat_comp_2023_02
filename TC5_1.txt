@@ -1,7 +1,5 @@
 QUESTÃO:
-O que é uma relação simétrica e uma relação transitiva. Dê exemplos para cada
-uma delas. Adicionalmente, diga se um relacionamento do tipo >, no sentido matemático
-usual, é transitivo e simétrico. Justifique sua resposta.
+O que é uma relação simétrica e uma relação transitiva. Dê exemplos para cada uma delas. Adicionalmente, diga se um relacionamento do tipo >, no sentido matemático usual, é transitivo e simétrico. Justifique sua resposta.
 
 RESPOSTA:
 **Relação Simétrica:**
