@@ -1,0 +1,20 @@
+QUESTÃO:
+O que é uma relação simétrica e uma relação transitiva. Dê exemplos para cada
+uma delas. Adicionalmente, diga se um relacionamento do tipo >, no sentido matemático
+usual, é transitivo e simétrico. Justifique sua resposta.
+
+RESPOSTA:
+**Relação Simétrica:**
+
+Uma relação em um conjunto A é considerada simétrica se, para quaisquer dois elementos x e y pertencentes a A, se x está relacionado a y, então y também está relacionado a x.
+Exemplo: A relação de "ser irmão de" é uma relação simétrica, pois se João é irmão de Maria, então Maria é irmã de João.
+
+**Relação Transitiva:**
+
+Uma relação em um conjunto A é considerada transitiva se, para quaisquer três elementos x, y e z pertencentes a A, se x está relacionado a y e y está relacionado a z, então x também está relacionado a z.
+Exemplo: A relação "ser antecessor de" em um conjunto de números inteiros é transitiva, pois se 2 é antecessor de 3 e 3 é antecessor de 4, então 2 é antecessor de 4.
+
+**Relação ">" no Sentido Matemático Usual:**
+
+A relação "maior que" na matemática não é simétrica, pois se a > b, não é verdade que b > a. Por exemplo, se 5 é maior que 3 (5 > 3), não é verdade que 3 seja maior que 5 (3 > 5). Portanto, não é simétrica.
+Além disso, a relação "maior que" é transitiva. Se a > b e b > c, então é certo que a > c. Por exemplo, se 5 é maior que 3 (5 > 3) e 3 é maior que 1 (3 > 1), então é correto dizer que 5 é maior que 1 (5 > 1). Portanto, é transitiva.
